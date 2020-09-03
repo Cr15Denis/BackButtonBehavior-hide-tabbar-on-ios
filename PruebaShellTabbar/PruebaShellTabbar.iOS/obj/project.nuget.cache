@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cN8yCA7AIyIGcYOU+NYR9N1gf2fpo+s36gvIckHZLm4Ewg6Upgblume2VWzdFaGRFs6fPPTVqv7TJCUIN+ceVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gudiel\\source\\repos\\PruebaShellTabbar\\PruebaShellTabbar\\PruebaShellTabbar.iOS\\PruebaShellTabbar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gudiel\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Gudiel\\.nuget\\packages\\xamarin.forms\\4.8.0.1364\\xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}
